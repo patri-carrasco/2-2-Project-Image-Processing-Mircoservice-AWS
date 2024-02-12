@@ -44,6 +44,8 @@ Used to `eb init` a new application and `eb create` a new environment to deploy 
 - The url : http://2-2-project-image-processing-mircoservi.us-east-1.elasticbeanstalk.com/
 
 
+![eb_run](./img/eb_run.png)
+
 
 
 <hr>
